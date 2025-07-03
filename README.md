@@ -21,7 +21,7 @@ You just need C Compiler:
 
 ```bash
 $ cc nob.c -o nob
-$ ./nob && ./run_tree/main
+$ ./nob && ./mlpgui
 ```
 
 ### License
